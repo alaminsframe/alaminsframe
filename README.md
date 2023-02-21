@@ -39,7 +39,7 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 <br/>
 
 
-![Alamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloalaminsheikh&show_icons=true&theme=vue-dark)
+![Alamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyalaminsheikh&show_icons=true&theme=vue-dark)
 [![Alamin's Streak](https://github-readme-streak-stats.herokuapp.com?user=helloalaminsheikh&theme=vue-dark)](https://git.io/streak-stats)
 ![Alamin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=helloalaminsheikh&theme=vue)
   
