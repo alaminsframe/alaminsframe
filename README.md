@@ -5,6 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
+<!-- About -->
 ## About ME:
 I’m a web developer specifically a full-stack developer. I have a positive outlook and am always willing to learn new things.
 - 🔭 I’m currently working on Full-Stack Development 
@@ -33,7 +34,7 @@ I’m a web developer specifically a full-stack developer. I have a positive out
   <a href="https://github.com/helloalaminsheikh/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/helloalaminsheikh//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
     <a href="https://www.facebook.com/helloalaminsheikh"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
-      <a href="https://codepen.io/alaminsheikh"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
+      <a href="https://codepen.io/helloalaminsheikh"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
  </div>
 
 <br/>
