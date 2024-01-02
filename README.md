@@ -36,7 +36,6 @@ I’m a web developer specifically a full-stack developer. I have a positive out
     <a href="https://www.facebook.com/helloalaminsheikh"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
       <a href="https://codepen.io/helloalaminsheikh"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
  </div>
-
 <br/>
 
 
