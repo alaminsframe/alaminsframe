@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-<!-- About Me part  -->
+<!-- About Me  -->
 ## About ME:
 I’m a web developer specifically a full-stack developer. I have a positive outlook and am always willing to learn new things.
 - 🔭 I’m currently working on Full-Stack Development 
