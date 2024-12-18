@@ -12,7 +12,7 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 - 🌱 I’m currently learning php 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Php 
-- 📫 How to reach me: alaminsframe@gmail.com 
+- 📫 How to reach me: helloalaminsheikh@gmail.com 
 <h2>💻 Skills And Technologies:</h2>
 
 <p align="left"> 
