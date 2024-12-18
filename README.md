@@ -12,7 +12,7 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 - 🌱 I’m currently learning php 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Php 
-- 📫 How to reach me: helloalaminsheikh@gmail.com 
+- 📫 How to reach me: alaminsframe@gmail.com 
 <h2>💻 Skills And Technologies:</h2>
 
 <p align="left"> 
@@ -31,20 +31,20 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 
 <h2>Connect with me: </h2>
 <div align="center">
-  <a href="https://github.com/helloalaminsheikh/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/helloalaminsheikh//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
-    <a href="https://www.facebook.com/helloalaminsheikh"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
-      <a href="https://codepen.io/helloalaminsheikh"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
+  <a href="https://github.com/alaminsframe/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alaminsframe//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+    <a href="https://www.facebook.com/alaminsframe"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
+      <a href="https://codepen.io/alaminsframe"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
  </div>
 <br/>
 
 
-![Alamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloalaminsheikh&show_icons=true&theme=vue-dark)
-[![Alamin's Streak](https://github-readme-streak-stats.herokuapp.com?user=helloalaminsheikh&theme=vue-dark)](https://git.io/streak-stats)
-![Alamin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=helloalaminsheikh&theme=vue)
+![Alamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminsframe&show_icons=true&theme=vue-dark)
+[![Alamin's Streak](https://github-readme-streak-stats.herokuapp.com?user=alaminsframe&theme=vue-dark)](https://git.io/streak-stats)
+![Alamin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alaminsframe&theme=vue)
   
-![Alamin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helloalaminsheikh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Alamin's metrics](https://metrics.lecoq.io/helloalaminsheikh)
+![Alamin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminsframe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Alamin's metrics](https://metrics.lecoq.io/alaminsframe)
  
 
 
