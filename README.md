@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+there+👋,I'm+Al-Amin+%3C%2F%3E" alt="Typing SVG" /></a>
 </h3>
 <h4 align="center"> Full-Stack Web Developer</h4>
-<img height= "30px" >
+
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp">
 
 <!-- About Me part -->
