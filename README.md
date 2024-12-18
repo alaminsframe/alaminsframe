@@ -6,8 +6,8 @@
 
 <!-- About Me part -->
 ## About ME:
-I’m a web developer specifically a full-stack developer. I have a positive outlook and am always willing to learn new things.
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp">
+I’m a web developer specifically a full-stack developer. I have a positive outlook and am always willing to learn new things.
 - 🔭 I’m currently working on Full-Stack Development 
 - 🌱 I’m currently learning React.js and Next.js  
 - 👯 I’m looking to collaborate on GitHub 
