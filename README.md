@@ -3,7 +3,7 @@
 </h3>
 <h4 align="center"> Full-Stack Web Developer</h4>
 
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp">
+
 
 <!-- About Me part -->
 ## About ME:
@@ -13,6 +13,7 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about js 
 - 📫 How to reach me: helloalaminsheikh@gmail.com 
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp">
 <h2>💻 Skills And Technologies:</h2>
 
 <p align="left"> 
