@@ -39,4 +39,8 @@ I’m a web developer specifically a full-stack developer. I have a positive out
  </div>
 <br/>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alaminsframe/alaminsframe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alaminsframe/alaminsframe/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/alaminsframe/alaminsframe/output/github-snake.svg" />
+</picture>
