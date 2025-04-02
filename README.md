@@ -35,7 +35,7 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 <h2>Connect with me: </h2>
 <div align="center">
   <a href="https://github.com/alaminsframe/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/alaminsheikh-dev//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+  <a href="https://www.linkedin.com/in/alaminsframe//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
  </div>
 <br/>
 
