@@ -1,18 +1,13 @@
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+there+👋,I'm+Al-Amin+%3C%2F%3E" alt="Typing SVG" /></a>
-</h3>
-
-<h4 align="center"> Full-Stack Web Developer</h4>
 
 <!-- About Me part -->
 ## About ME:
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp">
 
-I’m a web developer specifically a full-stack developer. I have a positive outlook and am always willing to learn new things.
+I’m a web developer, specifically a full-stack developer. I have a positive outlook and am always willing to learn new things.
 - 🔭 I’m currently working on Full-Stack Development
 - 🌱 I’m currently learning React.js and Next.js  
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about js 
+- 💬 Ask me about JS 
 - 📫 How to reach me: helloalaminsheikh@gmail.com 
 
 <img height="50px">
