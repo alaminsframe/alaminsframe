@@ -1,37 +1,142 @@
+# Hi there, I'm Al Amin Sheikh! 👋
 
-<!-- About Me part -->
-## About ME:
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp">
-
-I’m a web developer, specifically a full-stack developer. I have a positive outlook and am always willing to learn new things.
-- 🔭 I’m currently working on Full-Stack Development
-- 🌱 I’m currently learning React.js and Next.js  
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about JS 
-- 📫 How to reach me: helloalaminsheikh@gmail.com 
-
-<img height="50px">
-<h2>💻 Skills And Technologies:</h2>
-
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="70" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer">   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="70" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer">   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
- </p>
-
-
-
-<h2>Connect with me: </h2>
 <div align="center">
-  <a href="https://github.com/alaminsframe/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/alaminsframe/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
- </div>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaminsframe/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminsheikh12180@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801575137573)
+[![Location](https://img.shields.io/badge/Dhaka,_Bangladesh-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)]()
+
+</div>
+
+## 🚀 About Me
+
+I'm a **passionate developer** and **aspiring data scientist** with a unique blend of creative web development skills and analytical mathematical foundation. Currently pursuing my BSc in Mathematics at Dhaka College while actively transitioning from front-end development to the exciting world of data science.
+
+```python
+class AlAminSheikh:
+    def __init__(self):
+        self.role = "Junior Developer → Data Science Aspirant"
+        self.location = "Jatrabari, Dhaka 🇧🇩"
+        self.education = "BSc Mathematics (2022-2026)"
+        self.current_focus = "Data Analytics & Machine Learning"
+        self.passion = "Solving complex problems with data-driven insights"
+    
+    def get_current_goals(self):
+        return [
+            "🎯 Master Python for Data Science",
+            "📊 Build impressive data visualization projects",
+            "🤖 Dive deep into Machine Learning algorithms",
+            "🏆 Land my first Data Science role"
+        ]
+```
+
+## 💼 Professional Journey
+
+### 🌱 Currently Learning
+- **Data Science Pipeline**: From data collection to model deployment
+- **Advanced Python**: Pandas, NumPy, SciPy for data manipulation
+- **Machine Learning**: Supervised & Unsupervised learning algorithms
+- **Data Visualization**: Creating compelling stories with Tableau, Matplotlib
+
+### 🔧 Recent Experience
+**Junior Developer (Intern)** | *Jul 2023 - Nov 2023*
+- Crafted responsive, pixel-perfect websites from design mockups
+- Specialized in Figma/PSD to HTML/CSS conversion
+- Developed WordPress sites using Elementor Pro
+- Focused on user experience and mobile-first design
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Programming & Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+## 🎓 Education & Achievements
+
+### 📚 Academic Background
+**BSc in Mathematics** | *Dhaka College (2022-2026)*
+- **Core Strengths**: Probability, Linear Algebra, Numerical Methods, Optimization
+- **Analytical Foundation**: Abstract Algebra, Real Analysis
+- **Practical Application**: Strong mathematical foundation for data analysis and algorithmic thinking
+
+### 🏅 Leadership & Recognition
+**Harvard Business School - Aspire Leaders Program** | *April 2024*
+- Selected for highly competitive international leadership program
+- Developed advanced skills in critical thinking and global collaboration
+- Enhanced leadership capabilities through diverse, multicultural cohort
+
+## 📊 What I'm Working On
+
+```mermaid
+graph TD
+    A[Data Collection] --> B[Data Cleaning & Processing]
+    B --> C[Exploratory Data Analysis]
+    C --> D[Feature Engineering]
+    D --> E[Model Building]
+    E --> F[Validation & Testing]
+    F --> G[Visualization & Insights]
+    G --> H[Business Impact]
+```
+
+## 🎯 2024 Goals
+
+- [ ] Complete advanced DataCamp tracks in Machine Learning
+- [ ] Build 5 end-to-end data science projects
+- [ ] Contribute to open-source data science libraries
+- [ ] Network with data science professionals
+- [ ] Land my first Data Analyst/Junior Data Scientist role
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+[![Al Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminsframe&show_icons=true&theme=radical)](https://github.com/alaminsframe)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminsframe&layout=compact&theme=radical)](https://github.com/alaminsframe)
+
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always excited to connect with fellow developers, data enthusiasts, and potential collaborators! Whether you're interested in:
+
+- 💬 Discussing data science trends and opportunities
+- 🚀 Collaborating on interesting projects
+- 📚 Sharing learning resources and experiences
+- 🎯 Exploring career opportunities in data science
+
+**Feel free to reach out!** I'm open to conversations, mentorship, and collaboration opportunities.
+
+---
+
+<div align="center">
+
+*"Turning data into insights, one algorithm at a time"* 📊✨
+
+[![Profile Views](https://komarev.com/ghpvc/?username=alaminsframe&color=blueviolet&style=for-the-badge)](https://github.com/alaminsframe)
+
+</div>
 <br/>
 
 <picture>
