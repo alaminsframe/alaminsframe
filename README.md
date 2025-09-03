@@ -1,76 +1,77 @@
-# Hi there, I'm Al Amin Sheikh! 👋
+# Al Amin Sheikh
+### Data Analyst | Mathematics Graduate | Problem Solver
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaminsframe/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminsheikh12180@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801575137573)
-[![Location](https://img.shields.io/badge/Dhaka,_Bangladesh-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaminsframe/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alaminsheikh12180@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/alaminsframe/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/alaminsframe)
 
-</div>
+## About Me
 
-## 🚀 About Me
+Data-driven professional with a strong mathematical foundation and hands-on experience in analytics. Currently pursuing BSc in Mathematics while actively developing expertise in data science through DataCamp. Proven ability to transform complex data into actionable business insights through statistical analysis and visualization.
 
-I'm a **passionate developer** and **aspiring data scientist** with a unique blend of creative web development skills and analytical mathematical foundation. Currently pursuing my BSc in Mathematics at Dhaka College while actively transitioning from front-end development to the exciting world of data science.
+**Specializations:** Statistical Analysis • Data Visualization • Python Programming • Database Management • Business Intelligence
 
-```python
-class AlAminSheikh:
-    def __init__(self):
-        self.role = "Junior Developer → Data Science Aspirant"
-        self.location = "Jatrabari, Dhaka 🇧🇩"
-        self.education = "BSc Mathematics (2022-2026)"
-        self.current_focus = "Data Analytics & Machine Learning"
-        self.passion = "Solving complex problems with data-driven insights"
-    
-    def get_current_goals(self):
-        return [
-            "🎯 Master Python for Data Science",
-            "📊 Build impressive data visualization projects",
-            "🤖 Dive deep into Machine Learning algorithms",
-            "🏆 Land my first Data Science role"
-        ]
-```
+## Professional Experience
 
-## 💼 Professional Journey
+**Junior Developer (Data-Focused)** • *Jul 2023 - Nov 2023*
+- Developed responsive web applications with data visualization components
+- Implemented data-driven UI solutions and interactive dashboards
+- Converted business requirements into technical solutions
+- Collaborated with cross-functional teams on data presentation projects
 
-### 🌱 Currently Learning
-- **Data Science Pipeline**: From data collection to model deployment
-- **Advanced Python**: Pandas, NumPy, SciPy for data manipulation
-- **Machine Learning**: Supervised & Unsupervised learning algorithms
-- **Data Visualization**: Creating compelling stories with Tableau, Matplotlib
+## Education & Certifications
 
-### 🔧 Recent Experience
-**Junior Developer (Intern)** | *Jul 2023 - Nov 2023*
-- Crafted responsive, pixel-perfect websites from design mockups
-- Specialized in Figma/PSD to HTML/CSS conversion
-- Developed WordPress sites using Elementor Pro
-- Focused on user experience and mobile-first design
+**BSc in Mathematics** • *Dhaka College (2022-2026)*
+- **Relevant Coursework:** Probability & Statistics, Linear Algebra, Numerical Methods, Optimization Theory
+- **Advanced Topics:** Real Analysis, Abstract Algebra (strong foundation for machine learning algorithms)
 
-## 🛠️ Tech Stack & Tools
+**Harvard Business School - Aspire Leaders Program** • *April 2024*
+- Leadership development and strategic thinking
+- Data-driven decision making and business analytics
+- Global collaboration and cross-cultural communication
 
-<div align="center">
+## Technical Skills
 
-### Programming & Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Programming & Analytics**
+- Python (Pandas, NumPy, SciPy)
+- JavaScript (for data visualization)
+- Statistical Analysis & Modeling
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Database Management**
+- MySQL, PostgreSQL
+- Advanced SQL (Joins, Subqueries, Window Functions)
+- Database optimization and querying
 
-### Data Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+**Data Visualization & BI**
+- Tableau (Interactive dashboards)
+- Matplotlib, Seaborn, Plotly
+- Business Intelligence reporting
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+**Tools & Platforms**
+- Git & GitHub (Version control)
+- Microsoft Excel (Advanced formulas, pivot tables)
+- Google Workspace, Trello, Slack
 
-</div>
+## Key Projects & Achievements
+
+- **Statistical Foundation:** Strong mathematical background with practical application in data analysis
+- **Analytical Mindset:** Proven ability to approach complex problems systematically
+- **Technical Proficiency:** Growing expertise in modern data science tools and methodologies
+- **Leadership Experience:** Harvard-recognized leadership development through competitive international program
+- **Problem-Solving:** Experience in converting business requirements into data-driven solutions
+
+## Core Competencies
+
+- **Data Analysis:** Extracting meaningful insights from complex datasets
+- **Statistical Modeling:** Applying mathematical concepts to real-world business problems
+- **Data Visualization:** Creating compelling visual narratives from raw data
+- **Business Intelligence:** Understanding business context and translating data into actionable recommendations
+- **Continuous Learning:** Actively expanding skills in machine learning and advanced analytics
+
+---
+
+*Passionate about leveraging data to drive business decisions and create measurable impact*
 
 <br/>
 
