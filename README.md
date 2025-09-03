@@ -53,14 +53,6 @@ Data-driven professional with a strong mathematical foundation and hands-on expe
 - Microsoft Excel (Advanced formulas, pivot tables)
 - Google Workspace, Trello, Slack
 
-## Key Projects & Achievements
-
-- **Statistical Foundation:** Strong mathematical background with practical application in data analysis
-- **Analytical Mindset:** Proven ability to approach complex problems systematically
-- **Technical Proficiency:** Growing expertise in modern data science tools and methodologies
-- **Leadership Experience:** Harvard-recognized leadership development through competitive international program
-- **Problem-Solving:** Experience in converting business requirements into data-driven solutions
-
 ## Core Competencies
 
 - **Data Analysis:** Extracting meaningful insights from complex datasets
